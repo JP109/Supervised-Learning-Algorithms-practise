@@ -4,7 +4,8 @@ This folder contains following regression algorithm implementations:
 3. Ridge 
 4. Lasso
 5. Elastic Net
-6. KNN Regressor
-7. Decision Tree Regressor
-8. Random Forest Regressor
-9. SVR
+6. Huber
+7. KNN Regressor
+8. Decision Tree Regressor
+9. Random Forest Regressor
+10. SVR
